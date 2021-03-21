@@ -18,7 +18,7 @@ It works like a simple calculator as shown below:
 
 ![Снимок экрана 2021-03-21 121617](https://user-images.githubusercontent.com/72644178/111895951-42e86a80-8a40-11eb-887a-97b60191e4b9.png)
 
-4) Then click on equal and it gives us result:
+4) Then click equal and it gives us result:
 
 ![Снимок экрана 2021-03-21 121635](https://user-images.githubusercontent.com/72644178/111895952-42e86a80-8a40-11eb-8cc0-91d75e83f01b.png)
 
